@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path="README.md" />
+  </Folder>
+  <Project Path="BitPackingLibrary/BitPackingLibrary.csproj" Id="27220164-e364-4edd-bc55-a83226b6f859" />
+  <Project Path="CollapseAndRefill/CollapseAndRefill.csproj" />
+  <Project Path="DoubleLinkedList/DoubleLinkedList.csproj" />
+</Solution>
